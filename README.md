@@ -24,7 +24,7 @@ If you don't have composer, you can get it from [Composer](https://getcomposer.o
 ## Run the application
 
 ```
-Easily from your browser
+Easily from your browser go to http://localhost/simple_shop
 ```
 
 ## Usage
