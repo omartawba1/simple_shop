@@ -1,0 +1,10 @@
+{
+  "autoload": {
+    "files": [
+      "src/helpers/helpers.php"
+    ],
+    "psr-4": {
+      "Tawba\\Shop\\": "src"
+    }
+  }
+}
