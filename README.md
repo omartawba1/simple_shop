@@ -1,8 +1,8 @@
 ## Description
 
-Simple shop package helps you to easily integrate with online shops API.
-If you need to make shop based on FlipKar, Shopify, Souq, Amazon, Alibaba, ...etc
-This package will help you a lot, For now we made integrate with FlipKart, and Shopify
+simple_shop helps you easily integrate with online shop APIs.
+If you need to make shop based intergration with FlipKar, Shopify, Souq, Amazon, Alibaba, etc,
+this package will help you a lot. For now, the library supports only FlipKar and Shop.com.
 
 
 ## Installation
@@ -18,23 +18,19 @@ Or you can do
 composer require tawba/simple_shop
 ```
 
-If you don't have composer, you can get it from [Composer](https://getcomposer.org/)
+If you don't have composer, follow the instruction [here](https://getcomposer.org/) to install it.
 
 
 ## Run the application
 
-```
-Easily from your browser go to http://localhost/simple_shop
-```
+Point your browser to http://localhost/simple_shop
+
 
 ## Usage
 
-```
-You can change Affliciate ID and Token then make your search
-```
+You have to set your own Affiliate ID and Token before usage.
+
 
 ## Important Notice
 
-```
-I left my own ID and Token for the webservices APIs Please don't use it in any of your applications
-```
+I left my own Affiliate ID and Token for the webservices, so please make sure you change them before using the library.
